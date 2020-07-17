@@ -1,2 +1,2 @@
-# Conference-Room-Booking-Potal
-A project undertaken at L&amp;T Hydrocarbon Engineering
+# IoT Enabled Conference-Room-Booking-Portal
+A project undertaken at L&T Hydrocarbon Engineering Limited, L&T Knowledege City - Vadoara under 6 months industrial training. 
